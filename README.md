@@ -8,9 +8,8 @@ I design and build AI-native product interfaces, working prototypes, and interac
 
 - Portfolio AI - AI-native portfolio and recruiter intake system built with Next.js, TypeScript, Gemini API, and Framer Motion
 - Sentinel - Google x SCAD FLUX hackathon-winning SwiftUI app for predictive home maintenance
-- Caret - team wellbeing prototype exploring burnout signals and collaborative care
+- Caret - team wellbeing app concept with a public web presentation prototype
 - FLUX Website - interactive website for SCAD FLUX
-- AI OS - AI-powered mobile OS layer concept with context-aware UI cards
 
 ## Focus
 
