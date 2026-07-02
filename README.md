@@ -1,32 +1,28 @@
 # Minwook Shin
 
-Design Engineer / UX Engineer graduating from SCAD in August 2026.
+Design engineer making AI-native interfaces, product prototypes, and small interaction systems.
 
-I design and build AI-native product interfaces, working prototypes, and interaction systems with React, Next.js, TypeScript, SwiftUI, and Figma.
+I like work where the design details and implementation details shape each other: motion, state, layout, components, copy, and the little rules that make an interface feel clear.
 
-Portfolio: https://www.minwookshin.com  
-LinkedIn: https://www.linkedin.com/in/minwookshin/
+[Site](https://www.minwookshin.com) · [LinkedIn](https://www.linkedin.com/in/minwookshin/)
 
-## Proof
+## Work
 
-- [Portfolio AI](https://github.com/minwookshin/portfolio-ai) - AI-native portfolio and recruiter intake system built with Next.js, TypeScript, Gemini API, Framer Motion, public AI-readable docs, and design-system proof.
-- [Sentinel](https://github.com/minwookshin/sentinel) - Google x SCAD FLUX hackathon-winning SwiftUI app for predictive home maintenance.
-- [Caret](https://github.com/minwookshin/caret) - iOS-style team wellbeing app concept with a public web presentation prototype.
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Portfolio AI](https://github.com/minwookshin/portfolio-ai) | Personal site with case studies, interaction studies, an AI guide, and markdown routes for structured reading. | Next.js, React, TypeScript, Gemini API, Framer Motion |
+| [Sentinel](https://github.com/minwookshin/sentinel) | SwiftUI prototype for home-maintenance risk, weather context, timelines, and action planning. | SwiftUI, weather-risk APIs, Gemini API |
+| [Caret](https://github.com/minwookshin/caret) | Team wellbeing concept with a browser prototype for mood states, care actions, and small reward loops. | Figma, HTML, CSS, JavaScript |
 
-## Live Portfolio Routes
+## Tools
 
-- Portfolio: https://www.minwookshin.com
-- Resume PDF: https://www.minwookshin.com/resume.pdf
-- Portfolio Markdown: https://www.minwookshin.com/portfolio.md
-- LLM guide: https://www.minwookshin.com/llms.txt
-- Resume JSON: https://www.minwookshin.com/resume.json
-- Design-system proof: https://www.minwookshin.com/design-system
-- Design tokens: https://www.minwookshin.com/design-system/tokens.json
+- React, Next.js, TypeScript, SwiftUI
+- Figma, Framer Motion, CSS, design tokens
+- Interaction prototypes, component systems, AI interface patterns
 
-## Focus
+## Links
 
-- Design engineering
-- AI-native interfaces
-- Frontend product prototyping
-- Interaction design and motion
-- Design systems and polished UI implementation
+- Site: <https://www.minwookshin.com>
+- Work: <https://www.minwookshin.com/work>
+- Studies: <https://www.minwookshin.com/studies>
+- Markdown: <https://www.minwookshin.com/portfolio.md>
