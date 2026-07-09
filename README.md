@@ -1,31 +1,19 @@
 # Minwook Shin
 
-Design Engineer / Product Design Engineer building AI-native product interfaces, working prototypes, and small interaction systems.
+Design Engineer building product interfaces, working prototypes, and interaction systems.
 
-I like work where product judgment, interaction design, and implementation details shape each other: motion, state, layout, components, copy, and the little rules that make an interface feel clear.
+I work across product judgment, interaction design, and code using React, Next.js, TypeScript, SwiftUI, and Figma.
 
-[Site](https://www.minwookshin.com) · [LinkedIn](https://www.linkedin.com/in/minwookshin/)
+[Portfolio](https://www.minwookshin.com) · [LinkedIn](https://www.linkedin.com/in/minwookshin/) · [Resume](https://www.minwookshin.com/resume.pdf)
 
-Target roles: Design Engineer, Product Design Engineer, UX Design Engineer, UX Engineer, Frontend Design Engineer, and Frontend Engineer focused on product interface quality.
+## Selected work
 
-## Work
+- [Portfolio OS](https://www.minwookshin.com/work/portfolio-ai) - A command-driven, AI-readable portfolio built as a working interface system.
+- [Atlas](https://www.minwookshin.com/work/atlas) - A connected triage prototype spanning SwiftUI surfaces and a TypeScript patient-state server.
+- [Sentinel](https://www.minwookshin.com/work/sentinel) - A hackathon-winning SwiftUI product that turns weather risk into one clear homeowner action.
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Portfolio AI](https://github.com/minwookshin/portfolio-ai) | Personal site with case studies, interaction studies, an AI guide, and markdown routes for structured reading. | Next.js, React, TypeScript, Gemini API, Framer Motion |
-| [Sentinel](https://github.com/minwookshin/sentinel) | SwiftUI prototype for home-maintenance risk, weather context, timelines, and action planning. | SwiftUI, weather-risk APIs, Gemini API |
-| [Caret](https://github.com/minwookshin/caret) | Team wellbeing concept with a browser prototype for mood states, care actions, and small reward loops. | Figma, HTML, CSS, JavaScript |
-| [CapExplorer](https://github.com/minwookshin/capexplorer) | Product discovery prototype for cap shopping interactions, match sliders, and browsing UI. | HTML, CSS, JavaScript |
+## Stack
 
-## Tools
+React, Next.js, TypeScript, SwiftUI, Figma, Motion, Vitest, and AI-assisted product workflows.
 
-- React, Next.js, TypeScript, SwiftUI
-- Figma, Framer Motion, CSS, design tokens
-- Interaction prototypes, component systems, product UI engineering, AI interface patterns
-
-## Links
-
-- Site: <https://www.minwookshin.com>
-- Work: <https://www.minwookshin.com/work>
-- Studies: <https://www.minwookshin.com/studies>
-- Markdown: <https://www.minwookshin.com/portfolio.md>
+Open to full-time Design Engineer roles in San Francisco, New York City, or remote starting September 2026.
